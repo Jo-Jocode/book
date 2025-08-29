@@ -315,6 +315,8 @@ parts:
   - caption: Miscellaneous
     numbered: false
     chapters:
+    - file: team/team.md
+      title: Our Team
     - file: references
     - file: changelog
     - file: credits
