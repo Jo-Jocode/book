@@ -42,6 +42,7 @@ sphinx:
 # END REMOVE-FROM-PUBLISH
     tud_change_logo: false
     tud_change_titlesize: false
+    git_show_author: true
     named_colors_custom_colors: {'attributiongrey':[150,150,150]}
     metadata_figure_settings:
       style: #BUMP
