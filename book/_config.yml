@@ -44,6 +44,10 @@ sphinx:
     tud_change_titlesize: false
     git_show_author: true
     named_colors_custom_colors: {'attributiongrey':[150,150,150]}
+    git_exclude_patterns:
+      - 'conf.py'
+      - '_config.yml'
+      - '_toc.yml'
     metadata_figure_settings:
       style: #BUMP
         admonition_class: attribution attributiongrey
