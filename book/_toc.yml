@@ -274,6 +274,8 @@ parts:
     numbered: 2
     chapters:
     - file: programming/week_1_1
+      sections:
+      - file: programming/week_1_1/files.md
     - file: programming/week_1_2
       sections:
       - file: programming/week_1_2/filepaths
@@ -288,6 +290,7 @@ parts:
       - file: programming/week_2_2/solver.ipynb
     - file: programming/week_2_3      
     - file: programming/week_2_4
+      - file: programming/week_2_4/testing.ipynb
     - file: programming/week_2_5
       sections:
       - file: programming/week_2_5/packaging.md
