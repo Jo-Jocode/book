@@ -47,6 +47,7 @@ sphinx:
       - '_config.yml'
       - '_toc.yml'  
     git_show_merge_commits: true
+    git_first_parent: true
     metadata_figure_settings:
       style: #BUMP
         admonition_class: attribution attributiongrey
