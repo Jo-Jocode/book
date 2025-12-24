@@ -275,21 +275,49 @@ parts:
     chapters:
     - file: programming/week_1_1
       sections:
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/computers.md
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/environments.md
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/install/common/cli.md
       - file: programming/week_1_1/files.md
     - file: programming/week_1_2
       sections:
       - file: programming/week_1_2/filepaths
       - file: programming/week_1_2/markdown
     - file: programming/week_1_4
+      sections:
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/version_control/version_control.md
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/version_control/notebooks.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/branch_merge.md
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/workflows/git/merge_conflicts.md
     - file: programming/week_1_6
+      sections:
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/llms/effective-prompting.md
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/llms/generating-code.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/llms/debugging-errors.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/llms/human-in-the-loop.ipynb
     - file: programming/week_2_1
+      sections:
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/python/oop/intro.md
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/python/oop/classes.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/python/oop/encapsulation.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/python/oop/Inheritance.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/python/oop/Polymorphism.ipynb
+      - external: https://github.com/TeachBooks/learn-programming/blob/mude-2025/book/python/oop/exercise.ipynb
     - file: programming/week_2_2
       sections:
       - file: programming/week_2_2/assembly
       - file: programming/week_2_2/sparse
       - file: programming/week_2_2/solver.ipynb
-    - file: programming/week_2_3      
+    - file: programming/week_2_3
+      sections:
+      - external: https://github.com/TUDelft-books/learn-python/blob/2025/book/errors/error_types.ipynb
+      - external: https://github.com/TUDelft-books/learn-python/blob/2025/book/errors/traceback.ipynb
+      
     - file: programming/week_2_4
+      sections:
+      - external: https://github.com/TUDelft-books/learn-python/blob/2025/book/errors/asserts.ipynb
+      - external: https://github.com/TUDelft-books/learn-python/blob/2025/book/errors/raise_errors.ipynb
+      - external: https://github.com/TUDelft-books/learn-python/blob/2025/book/errors/handling_errors.ipynb
       - file: programming/week_2_4/testing.ipynb
     - file: programming/week_2_5
       sections:
